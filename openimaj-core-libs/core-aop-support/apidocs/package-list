@@ -1,0 +1,3 @@
+org.openimaj.aop
+org.openimaj.aop.agent
+org.openimaj.aop.classloader

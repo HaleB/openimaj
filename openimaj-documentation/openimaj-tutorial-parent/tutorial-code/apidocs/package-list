@@ -1,0 +1,14 @@
+org.openimaj.docs.tutorial.adv.advanced.parallel
+org.openimaj.docs.tutorial.adv.faces.eigen
+org.openimaj.docs.tutorial.adv.faces.pipeeigen
+org.openimaj.docs.tutorial.fund.audio
+org.openimaj.docs.tutorial.fund.gettingstarted.maven
+org.openimaj.docs.tutorial.fund.images.clustseg
+org.openimaj.docs.tutorial.fund.images.datasets
+org.openimaj.docs.tutorial.fund.images.firstimage
+org.openimaj.docs.tutorial.fund.images.imagehist
+org.openimaj.docs.tutorial.fund.images.siftmatch
+org.openimaj.docs.tutorial.fund.ml.class101
+org.openimaj.docs.tutorial.fund.stream.twitterimages
+org.openimaj.docs.tutorial.fund.video.faces
+org.openimaj.docs.tutorial.fund.video.procvid

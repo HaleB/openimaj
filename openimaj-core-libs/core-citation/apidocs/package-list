@@ -1,0 +1,6 @@
+org.openimaj.citation
+org.openimaj.citation.annotation
+org.openimaj.citation.annotation.input
+org.openimaj.citation.annotation.mock
+org.openimaj.citation.annotation.output
+org.openimaj.citation.annotation.processor

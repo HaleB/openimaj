@@ -1,0 +1,5 @@
+org.openimaj.audio
+org.openimaj.audio.processor
+org.openimaj.audio.samples
+org.openimaj.audio.timecode
+org.openimaj.audio.util

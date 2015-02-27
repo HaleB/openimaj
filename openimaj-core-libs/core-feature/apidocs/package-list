@@ -1,0 +1,9 @@
+org.openimaj.feature
+org.openimaj.feature.conversion
+org.openimaj.feature.local
+org.openimaj.feature.local.data
+org.openimaj.feature.local.list
+org.openimaj.feature.local.quantised
+org.openimaj.feature.normalisation
+org.openimaj.math.geometry.point
+org.openimaj.math.statistics.distribution

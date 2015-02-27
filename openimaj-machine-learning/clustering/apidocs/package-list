@@ -1,0 +1,16 @@
+org.openimaj.experiment.evaluation.cluster
+org.openimaj.knn.pq
+org.openimaj.ml.clustering
+org.openimaj.ml.clustering.assignment
+org.openimaj.ml.clustering.assignment.hard
+org.openimaj.ml.clustering.assignment.soft
+org.openimaj.ml.clustering.dbscan
+org.openimaj.ml.clustering.dbscan.neighbourhood
+org.openimaj.ml.clustering.incremental
+org.openimaj.ml.clustering.kmeans
+org.openimaj.ml.clustering.meanshift
+org.openimaj.ml.clustering.rac
+org.openimaj.ml.clustering.random
+org.openimaj.ml.clustering.rforest
+org.openimaj.ml.clustering.spectral
+org.openimaj.ml.gmm

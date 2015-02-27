@@ -1,0 +1,5 @@
+org.openimaj.hadoop.mapreduce
+org.openimaj.hadoop.mapreduce.stage
+org.openimaj.hadoop.mapreduce.stage.helper
+org.openimaj.hadoop.sequencefile
+org.openimaj.hadoop.sequencefile.combine

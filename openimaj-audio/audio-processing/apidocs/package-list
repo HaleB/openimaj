@@ -1,0 +1,9 @@
+org.openimaj.audio
+org.openimaj.audio.analysis
+org.openimaj.audio.analysis.benchmarking
+org.openimaj.audio.analysis.benchmarking.dataset
+org.openimaj.audio.conversion
+org.openimaj.audio.features
+org.openimaj.audio.filters
+org.openimaj.audio.generation
+org.openimaj.audio.reader

@@ -1,0 +1,14 @@
+org.openimaj.demos
+org.openimaj.experiment.gmm.retrieval
+org.openimaj.image.calibration
+org.openimaj.image.neardups
+org.openimaj.image.neardups.sim
+org.openimaj.image.objectdetection.haar.training
+org.openimaj.math.matrix.algorithm.ica
+org.openimaj.ml.benchmark
+org.openimaj.ml.clustering.kdtree
+org.openimaj.ml.clustering.spectral
+org.openimaj.ml.neuralnet
+org.openimaj.vis.ternary
+org.openimaj.workinprogress
+org.openimaj.workinprogress.audio

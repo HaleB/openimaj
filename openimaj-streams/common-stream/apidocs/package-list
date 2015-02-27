@@ -1,0 +1,5 @@
+org.openimaj.stream.functions
+org.openimaj.stream.functions.twitter
+org.openimaj.stream.provider
+org.openimaj.stream.provider.irc
+org.openimaj.stream.provider.twitter

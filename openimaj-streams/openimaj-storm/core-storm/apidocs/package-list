@@ -1,0 +1,11 @@
+backtype.storm.scheme
+backtype.storm.spout
+net.lag.kestrel.thrift
+org.openimaj.kestrel
+org.openimaj.rdf.storm.utils
+org.openimaj.storm
+org.openimaj.storm.bolt
+org.openimaj.storm.spout
+org.openimaj.storm.topology.orchestrator
+org.openimaj.storm.util.graph
+org.openimaj.storm.utils

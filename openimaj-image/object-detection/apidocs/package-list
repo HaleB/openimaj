@@ -1,0 +1,5 @@
+org.openimaj.image.objectdetection
+org.openimaj.image.objectdetection.datasets
+org.openimaj.image.objectdetection.filtering
+org.openimaj.image.objectdetection.haar
+org.openimaj.image.objectdetection.hog

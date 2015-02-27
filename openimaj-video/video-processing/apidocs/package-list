@@ -1,0 +1,6 @@
+org.openimaj.video.processing.effects
+org.openimaj.video.processing.motion
+org.openimaj.video.processing.pixels
+org.openimaj.video.processing.shotdetector
+org.openimaj.video.processing.timefinder
+org.openimaj.video.processing.tracking

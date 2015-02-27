@@ -1,0 +1,10 @@
+org.openimaj.tools.imagecollection
+org.openimaj.tools.imagecollection.collection
+org.openimaj.tools.imagecollection.collection.config
+org.openimaj.tools.imagecollection.collection.video
+org.openimaj.tools.imagecollection.collection.video.selection
+org.openimaj.tools.imagecollection.collection.webpage
+org.openimaj.tools.imagecollection.metamapper
+org.openimaj.tools.imagecollection.processor
+org.openimaj.tools.imagecollection.tool
+org.openimaj.tools.imagecollection.utils

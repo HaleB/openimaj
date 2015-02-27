@@ -1,0 +1,7 @@
+org.openimaj.knn
+org.openimaj.knn.approximate
+org.openimaj.knn.lsh
+org.openimaj.knn.pq
+org.openimaj.lsh.composition
+org.openimaj.lsh.functions
+org.openimaj.lsh.sketch

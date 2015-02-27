@@ -1,0 +1,17 @@
+org.openimaj.image
+org.openimaj.image.analyser
+org.openimaj.image.colour
+org.openimaj.image.combiner
+org.openimaj.image.dataset
+org.openimaj.image.mask
+org.openimaj.image.pixel
+org.openimaj.image.pixel.sampling
+org.openimaj.image.pixel.util
+org.openimaj.image.processor
+org.openimaj.image.processor.connectedcomponent
+org.openimaj.image.processor.connectedcomponent.render
+org.openimaj.image.renderer
+org.openimaj.image.typography
+org.openimaj.image.typography.general
+org.openimaj.image.typography.hershey
+org.openimaj.image.typography.mathml

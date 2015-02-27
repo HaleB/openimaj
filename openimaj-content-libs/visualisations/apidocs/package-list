@@ -1,0 +1,9 @@
+org.openimaj.vis
+org.openimaj.vis.animators
+org.openimaj.vis.audio
+org.openimaj.vis.general
+org.openimaj.vis.ternary
+org.openimaj.vis.timeline
+org.openimaj.vis.utils
+org.openimaj.vis.video
+org.openimaj.vis.world

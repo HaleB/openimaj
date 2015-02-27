@@ -1,0 +1,14 @@
+org.openimaj.image.processing.face.alignment
+org.openimaj.image.processing.face.detection
+org.openimaj.image.processing.face.detection.benchmarking
+org.openimaj.image.processing.face.detection.keypoints
+org.openimaj.image.processing.face.feature
+org.openimaj.image.processing.face.feature.comparison
+org.openimaj.image.processing.face.feature.ltp
+org.openimaj.image.processing.face.recognition
+org.openimaj.image.processing.face.recognition.benchmarking
+org.openimaj.image.processing.face.recognition.benchmarking.dataset
+org.openimaj.image.processing.face.similarity
+org.openimaj.image.processing.face.tracking
+org.openimaj.image.processing.face.tracking.clm
+org.openimaj.image.processing.face.util
